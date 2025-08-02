@@ -1,0 +1,1 @@
+print("only for smaple")
